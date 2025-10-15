@@ -1,0 +1,6 @@
+Tính năng mới: Trang hồ sơ cá nhân
+- Cho phép người dùng cập nhật ảnh đại diện.
+- Cập nhật họ tên, email và giới tính.
+- Hiển thị thông tin sau khi cập nhật.
+- Lưu dữ liệu vào cơ sở dữ liệu MongoDB.
+- Cải thiện giao diện người dùng thân thiện hơn. 
