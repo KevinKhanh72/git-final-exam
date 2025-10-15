@@ -1,3 +1,4 @@
-- Học Git giúp hiểu quy trình Dev chuyên nghiệp.
-- Có thể khôi phục lại phiên bản trước khi lỗi xảy ra.
+- Git rất hữu ích cho việc quản lý mã nguồn.
+- Giúp làm việc nhóm dễ dàng hơn.
+- Dễ dàng theo dõi lịch sử thay đổi.
 
