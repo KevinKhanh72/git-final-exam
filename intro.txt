@@ -1,0 +1,7 @@
+Tôi là Lê Văn Khánh.
+Tôi là sinh viên năm 4 ngành CNTT.
+Tôi thích học công nghệ mới.
+Tôi muốn làm lập trình viên Full Stack.
+Tôi luôn muốn rèn luyện kỹ năng mềm.
+Sở thích: Nghe nhạc, chơi bóng đá, đọc sách.
+Kỹ năng: Git, HTML, JavaScript.
