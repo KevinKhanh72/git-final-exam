@@ -1,0 +1,4 @@
+- Git rất hữu ích cho việc quản lý mã nguồn.
+- Giúp làm việc nhóm dễ dàng hơn.
+- Dễ dàng theo dõi lịch sử thay đổi.
+
