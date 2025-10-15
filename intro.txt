@@ -4,4 +4,10 @@ Tôi thích học công nghệ mới.
 Tôi muốn làm lập trình viên Full Stack.
 Tôi luôn muốn rèn luyện kỹ năng mềm.
 Sở thích: Nghe nhạc, chơi bóng đá, đọc sách.
-Kỹ năng: Git, HTML, JavaScript.
+Kỹ năng: Git, HTML, JavaScript. Kế hoạch học tập:
+- Ôn lại Git và GitHub.
+- Học thêm React và Node.js.
+- Làm 1 dự án cá nhân.
+- Cải thiện kỹ năng teamwork.
+- Học thêm tiếng Anh chuyên ngành.
+ 
